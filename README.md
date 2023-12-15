@@ -12,7 +12,7 @@ In this study, we investigate the impact of a special type of content, namely, a
 
 <br />
 <div align="justify">
-<img src="https://drive.google.com/file/d/1Sg0XNjEcyF95U5nojf-0ShRCIy71Owe3/view?usp=sharing" width="50%" height="50%">
+![alt text](https://drive.google.com/file/d/1Sg0XNjEcyF95U5nojf-0ShRCIy71Owe3/view?usp=sharing)
 </div>
 
 <br />

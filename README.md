@@ -12,7 +12,7 @@ In this study, we investigate the impact of a special type of content, namely, a
 
 <br />
 <div align="justify">
-![alt text](https://drive.google.com/file/d/1Sg0XNjEcyF95U5nojf-0ShRCIy71Owe3/view?usp=sharing)
+![alt text](https://github.com/alkabbany/stress_att_train_dataset/Training.png)
 </div>
 
 <br />

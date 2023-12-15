@@ -12,7 +12,7 @@ In this study, we investigate the impact of a special type of content, namely, a
 
 <br />
 <div align="justify">
- <img src="[url](https://github.com/alkabbany/stress_att_train_dataset/Training.png)" width="50%" height="50%">
+ <img src="https://github.com/alkabbany/stress_att_train_dataset/Training.png" width="50%" height="50%">
 </div>
 
 <br />

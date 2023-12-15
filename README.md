@@ -15,5 +15,5 @@ If you will use this dataset, please cite the followin articles
 </li>
 <li>Mamdouh, Mona, Rojaina Mahmoud, Omneya Attallah, and Ahmad Al-Kabbany. "Stress Detection in the Wild: On the Impact of Cross-Training on Mental State Detection." In 2023 40th National Radio Science Conference (NRSC), vol. 1, pp. 150-158. IEEE, 2023.
  </li>
- <\ol>
+</ol>
 </div>
